@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color: aqua;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.heading{
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    margin-top: 10px;
+
+}
+#head{
+    font-size: 1.8em;
+
+}
+#subheading{
+    font-size: 18px;
+    margin-top: 10px;
+
+}
+#content{
+    width: 90%;
+    margin: auto;
+}
+form{
+    text-align: center;
+
+}
